@@ -9,6 +9,7 @@ import matplotlib.pyplot as plt
 
 '''
 This is just to test the new stuff migrating to github
+This is the 2nd TEST to check VSTS
 '''
 
 credentials = json.loads(open('./keys/twitterkeys.json').read())
