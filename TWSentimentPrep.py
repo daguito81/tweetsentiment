@@ -7,6 +7,9 @@ import pandas as pd
 from datetime import datetime
 import matplotlib.pyplot as plt
 
+'''
+This is just to test the new stuff migrating to github
+'''
 
 credentials = json.loads(open('./keys/twitterkeys.json').read())
 apikey = json.loads(open('./keys/indicokey.json').read())
